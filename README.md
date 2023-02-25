@@ -59,6 +59,7 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23FF9900.svg?style=for-the-badge&logo=amazon-figma&logoColor=white)
 
 ## Contact me:
 
