@@ -18,7 +18,7 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ![TRPC](https://img.shields.io/badge/-trpc-110022?style=for-the-badge&logo=trpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ### Known languages but not focused on
 
