@@ -30,6 +30,7 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ### Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -47,6 +48,12 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
+### CMS/CRM
+
+![Sitecore](https://img.shields.io/badge/Sitecore-red.svg?style=for-the-badge)
+![Wordpress](https://img.shields.io/badge/Wordpress-black.svg?style=for-the-badge)
+![Prestashop](https://img.shields.io/badge/Prestashop-blue.svg?style=for-the-badge)
+
 ### Others techno
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -56,5 +63,4 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ## Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johann-baziret-8287229/)
-
 [![My website](https://img.shields.io/badge/My%20Website-red.svg?style=for-the-badge)](https://www.jobasolutions.com/)
