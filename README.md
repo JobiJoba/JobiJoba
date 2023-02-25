@@ -56,3 +56,5 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ## Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johann-baziret-8287229/)
+
+[![My website](https://img.shields.io/badge/My%20Website-red.svg?style=for-the-badge)](https://www.jobasolutions.com/)
