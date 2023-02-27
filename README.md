@@ -20,13 +20,6 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
-### Known languages but not focused on
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-3440A0?style=for-the-badge&logo=rust&logoColor=white)
-
 ### Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -50,6 +43,7 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 
 ### CMS/CRM
 
+![Sanity](https://img.shields.io/badge/sanity-%23123F6D.svg?style=for-the-badge&logo=sanity&logoColor=#123F6D)
 ![Sitecore](https://img.shields.io/badge/Sitecore-red.svg?style=for-the-badge)
 ![Wordpress](https://img.shields.io/badge/Wordpress-black.svg?style=for-the-badge)
 ![Prestashop](https://img.shields.io/badge/Prestashop-blue.svg?style=for-the-badge)
@@ -60,6 +54,13 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23FF9900.svg?style=for-the-badge&logo=amazon-figma&logoColor=white)
+
+### Known languages but not focused on
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-3440A0?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Contact me:
 
