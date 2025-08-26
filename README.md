@@ -31,7 +31,7 @@ I'm full-stack developper working with the React/AWS as a Job, and manage mobile
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server]([https://img.shields.io/badge/sql-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge)
 ![Neo4J](https://img.shields.io/badge/Neo4j-%23007ACC.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Hosting Providers
